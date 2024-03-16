@@ -2,9 +2,9 @@
 
 Welcome to the AutoBullet-Education repository! This repository is dedicated to providing educational resources and materials for traders who are looking to enhance their trading skills and knowledge.
 
-## What is AutoBullet?
+## What is AutoBullet Trader?
 
-AutoBullet is a platform designed to empower traders by providing advanced analytical tools, real-time data analysis, and educational resources to improve decision-making in the financial markets.
+AutoBullet Trader is a platform designed to empower traders by providing advanced analytical tools, real-time data analysis, and educational resources to improve decision-making in the financial markets.
 
 ## Contents of This Repository
 
